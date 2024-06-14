@@ -1,0 +1,494 @@
+2024-05-28 15:35:59,545 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:57] - INFO: server start
+2024-05-28 15:35:59,801 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:39] - INFO: keyword done
+2024-05-28 15:35:59,828 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:49] - INFO: abstract done
+2024-05-28 15:35:59,828 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:63] - INFO: server end
+2024-05-28 15:36:41,858 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:57] - INFO: server start
+2024-05-28 15:36:42,092 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:39] - INFO: keyword done
+2024-05-28 15:36:42,109 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:49] - INFO: abstract done
+2024-05-28 15:36:42,109 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:63] - INFO: server end
+2024-05-28 15:37:23,265 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:57] - INFO: server start
+2024-05-28 15:37:23,503 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:39] - INFO: keyword done
+2024-05-28 15:37:23,520 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:49] - INFO: abstract done
+2024-05-28 15:37:23,520 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:63] - INFO: server end
+2024-05-28 15:42:40,831 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.30.32.151:8080
+2024-05-28 15:42:40,831 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [33mPress CTRL+C to quit[0m
+2024-05-28 15:42:40,843 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:42:42,449 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:42:42,460 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:43:02,678 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:43:02,679 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:43:03,226 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.547 seconds.
+2024-05-28 15:43:03,226 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:43:03,243 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.30.32.151:8080
+2024-05-28 15:43:03,243 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [33mPress CTRL+C to quit[0m
+2024-05-28 15:43:03,251 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:43:03,968 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:43:03,969 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:43:04,534 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.566 seconds.
+2024-05-28 15:43:04,534 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:43:04,541 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:43:04,545 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:43:19,289 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask.py', reloading
+2024-05-28 15:43:19,290 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:43:19,291 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:43:19,291 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:43:19,822 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:43:20,568 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:43:20,569 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:43:21,158 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.589 seconds.
+2024-05-28 15:43:21,158 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:43:21,164 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:43:21,168 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:44:05,623 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:44:05,623 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:44:05,624 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:44:06,684 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:44:07,485 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:44:07,486 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:44:08,076 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.591 seconds.
+2024-05-28 15:44:08,077 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:44:08,083 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:44:08,086 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:45:26,439 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:45:26,440 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:45:27,019 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.580 seconds.
+2024-05-28 15:45:27,019 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:45:27,040 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.30.32.151:8080
+2024-05-28 15:45:27,040 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [33mPress CTRL+C to quit[0m
+2024-05-28 15:45:27,047 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:45:27,892 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:45:27,894 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:45:28,624 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.732 seconds.
+2024-05-28 15:45:28,624 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:45:28,630 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:45:28,633 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:46:38,607 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:46:38,608 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 15:46:38,775 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\__init__.py', reloading
+2024-05-28 15:46:38,776 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\compat.py', reloading
+2024-05-28 15:46:38,777 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\universaldetector.py', reloading
+2024-05-28 15:46:38,778 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\charsetgroupprober.py', reloading
+2024-05-28 15:46:38,779 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\enums.py', reloading
+2024-05-28 15:46:38,780 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\charsetprober.py', reloading
+2024-05-28 15:46:38,781 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\escprober.py', reloading
+2024-05-28 15:46:38,783 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\codingstatemachine.py', reloading
+2024-05-28 15:46:38,784 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\escsm.py', reloading
+2024-05-28 15:46:38,785 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\latin1prober.py', reloading
+2024-05-28 15:46:38,786 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\mbcsgroupprober.py', reloading
+2024-05-28 15:46:38,787 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\utf8prober.py', reloading
+2024-05-28 15:46:38,788 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\mbcssm.py', reloading
+2024-05-28 15:46:38,789 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\sjisprober.py', reloading
+2024-05-28 15:46:38,790 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\mbcharsetprober.py', reloading
+2024-05-28 15:46:38,791 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\chardistribution.py', reloading
+2024-05-28 15:46:38,791 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\euctwfreq.py', reloading
+2024-05-28 15:46:38,793 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\euckrfreq.py', reloading
+2024-05-28 15:46:38,794 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\gb2312freq.py', reloading
+2024-05-28 15:46:38,795 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\big5freq.py', reloading
+2024-05-28 15:46:38,796 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\jisfreq.py', reloading
+2024-05-28 15:46:38,796 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\jpcntx.py', reloading
+2024-05-28 15:46:38,797 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\eucjpprober.py', reloading
+2024-05-28 15:46:38,799 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\gb2312prober.py', reloading
+2024-05-28 15:46:38,800 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\euckrprober.py', reloading
+2024-05-28 15:46:38,801 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\cp949prober.py', reloading
+2024-05-28 15:46:38,802 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\big5prober.py', reloading
+2024-05-28 15:46:38,802 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\euctwprober.py', reloading
+2024-05-28 15:46:38,803 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\sbcsgroupprober.py', reloading
+2024-05-28 15:46:38,805 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\sbcharsetprober.py', reloading
+2024-05-28 15:46:38,805 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langcyrillicmodel.py', reloading
+2024-05-28 15:46:38,806 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langgreekmodel.py', reloading
+2024-05-28 15:46:38,810 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langbulgarianmodel.py', reloading
+2024-05-28 15:46:38,810 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langthaimodel.py', reloading
+2024-05-28 15:46:38,811 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langhebrewmodel.py', reloading
+2024-05-28 15:46:38,812 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\hebrewprober.py', reloading
+2024-05-28 15:46:38,814 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\langturkishmodel.py', reloading
+2024-05-28 15:46:38,814 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\chardet\\version.py', reloading
+2024-05-28 15:46:38,818 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\OpenSSL\\__init__.py', reloading
+2024-05-28 15:46:38,819 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\OpenSSL\\SSL.py', reloading
+2024-05-28 15:46:38,821 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\OpenSSL\\_util.py', reloading
+2024-05-28 15:46:38,824 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py', reloading
+2024-05-28 15:46:38,825 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py', reloading
+2024-05-28 15:46:38,826 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\cryptography\\exceptions.py', reloading
+2024-05-28 15:46:38,839 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\certifi\\__init__.py', reloading
+2024-05-28 15:46:38,840 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\certifi\\core.py', reloading
+2024-05-28 15:46:38,861 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\http\\cookiejar.py', reloading
+2024-05-28 15:46:38,866 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\http\\cookies.py', reloading
+2024-05-28 15:46:38,873 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\idna\\__init__.py', reloading
+2024-05-28 15:46:38,874 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\idna\\package_data.py', reloading
+2024-05-28 15:46:38,875 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\idna\\core.py', reloading
+2024-05-28 15:46:38,876 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\idna\\idnadata.py', reloading
+2024-05-28 15:46:38,879 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\idna\\intranges.py', reloading
+2024-05-28 15:46:38,890 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\netrc.py', reloading
+2024-05-28 15:46:38,891 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\shlex.py', reloading
+2024-05-28 15:46:38,895 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 15:46:39,135 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 15:46:39,150 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 15:46:39,150 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 15:46:39,158 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 15:46:39] "GET / HTTP/1.1" 200 -
+2024-05-28 15:46:39,301 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:46:40,058 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:46:40,059 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:46:40,605 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.547 seconds.
+2024-05-28 15:46:40,605 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:46:40,613 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:46:40,616 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:47:06,931 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\xmlrpc\\__init__.py', reloading
+2024-05-28 15:47:06,931 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\xmlrpc\\client.py', reloading
+2024-05-28 15:47:06,939 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\gzip.py', reloading
+2024-05-28 15:47:06,941 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\xmlrpc\\server.py', reloading
+2024-05-28 15:47:06,947 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\pydoc.py', reloading
+2024-05-28 15:47:07,969 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:47:08,777 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:47:08,778 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:47:09,474 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.697 seconds.
+2024-05-28 15:47:09,474 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:47:09,480 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:47:09,484 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:48:14,316 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:48:14,317 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:48:14,317 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:48:14,318 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:48:14,397 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-28 15:48:15,196 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:48:15,957 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:48:15,958 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:48:16,503 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.546 seconds.
+2024-05-28 15:48:16,503 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:48:16,510 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:48:16,513 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:48:16,596 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\urllib3\\connection.py', reloading
+2024-05-28 15:48:16,598 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\urllib3\\util\\connection.py', reloading
+2024-05-28 15:48:16,601 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2024-05-28 15:48:16,615 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\requests\\adapters.py', reloading
+2024-05-28 15:48:16,617 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+2024-05-28 15:48:16,618 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\requests\\api.py', reloading
+2024-05-28 15:48:16,619 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\requests\\sessions.py', reloading
+2024-05-28 15:48:17,654 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:48:18,407 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:48:18,408 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:48:18,957 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.550 seconds.
+2024-05-28 15:48:18,958 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:48:18,964 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:48:18,967 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:48:26,724 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 15:48:27,002 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 15:48:27,017 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 15:48:27,017 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 15:48:27,018 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 15:48:27] "GET / HTTP/1.1" 200 -
+2024-05-28 15:49:35,763 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:49:35,764 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:49:35,764 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:49:35,765 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:49:36,798 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:49:37,622 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:49:37,623 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:49:38,236 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.614 seconds.
+2024-05-28 15:49:38,236 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:49:38,244 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:49:38,248 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 15:52:55,371 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:52:55,372 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:52:55,372 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:52:55,373 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 15:52:56,234 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 15:52:56,998 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 15:52:56,999 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 15:52:57,569 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.571 seconds.
+2024-05-28 15:52:57,569 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 15:52:57,576 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 15:52:57,579 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:09:16,681 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_flask_server_all_user.py', reloading
+2024-05-28 16:09:16,682 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_flask_server_all_user.py', reloading
+2024-05-28 16:09:16,682 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_flask_server_all_user.py', reloading
+2024-05-28 16:09:17,686 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:09:18,453 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:09:18,455 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:09:19,018 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.566 seconds.
+2024-05-28 16:09:19,018 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:09:19,025 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:09:19,028 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:09:47,889 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:09:48,133 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:09:48,149 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:09:48,149 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:09:48,149 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:09:48] "GET / HTTP/1.1" 200 -
+2024-05-28 16:14:03,561 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:03,561 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:03,562 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:03,562 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:03,785 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:14:03,845 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:14:04,623 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:14:04,624 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:14:05,170 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.547 seconds.
+2024-05-28 16:14:05,170 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:14:05,178 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:14:05,180 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:14:25,828 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:25,828 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:25,829 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:25,829 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:26,059 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:14:26,313 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:14:26,327 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:14:26,327 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:14:26,328 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:14:26] "GET / HTTP/1.1" 200 -
+2024-05-28 16:14:26,493 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:14:27,288 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:14:27,289 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:14:27,846 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.558 seconds.
+2024-05-28 16:14:27,846 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:14:27,852 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:14:27,855 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:14:33,293 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:33,294 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:33,294 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:33,295 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:14:33,514 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:14:33,758 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:14:33,773 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:14:33,773 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:14:33,773 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:14:33] "GET / HTTP/1.1" 200 -
+2024-05-28 16:14:34,049 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:14:34,812 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:14:34,812 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:14:35,391 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.578 seconds.
+2024-05-28 16:14:35,391 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:14:35,399 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:14:35,402 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:15:12,119 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:12,120 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:12,120 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:12,120 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:12,348 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:15:12,609 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:15:12,625 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:15:12,625 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:15:12,625 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:15:12] "GET / HTTP/1.1" 200 -
+2024-05-28 16:15:12,901 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:15:13,705 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:15:13,706 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:15:14,271 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.566 seconds.
+2024-05-28 16:15:14,271 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:15:14,278 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:15:14,281 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:15:30,636 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:30,636 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:30,637 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:15:31,519 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:15:32,299 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:15:32,300 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:15:32,850 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.551 seconds.
+2024-05-28 16:15:32,850 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:15:32,857 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:15:32,860 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:16:03,189 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:16:03,189 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:16:03,189 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:16:03,190 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:16:04,258 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:16:05,021 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:16:05,022 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:16:05,615 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.593 seconds.
+2024-05-28 16:16:05,615 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:16:05,622 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:16:05,625 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:22:00,377 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:00,377 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:00,378 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:00,600 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:22:00,848 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:22:00,863 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:22:00,863 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:22:00,864 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:22:00] "GET / HTTP/1.1" 200 -
+2024-05-28 16:22:00,958 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:22:01,724 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:22:01,725 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:22:02,299 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.575 seconds.
+2024-05-28 16:22:02,299 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:22:02,306 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:22:02,309 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:22:19,614 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:19,614 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:19,614 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:19,615 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:22:19,860 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:22:20,109 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:22:20,125 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:22:20,125 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:22:20,125 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:22:20] "GET / HTTP/1.1" 200 -
+2024-05-28 16:22:20,589 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:22:21,386 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:22:21,387 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:22:21,957 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.572 seconds.
+2024-05-28 16:22:21,957 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:22:21,964 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:22:21,967 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:23:18,899 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\script\\keywords_textrank.py', reloading
+2024-05-28 16:23:19,585 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:23:20,464 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:23:20,464 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:23:21,028 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.564 seconds.
+2024-05-28 16:23:21,029 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:23:21,035 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:23:21,038 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:23:23,820 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\script\\keywords_tfidf.py', reloading
+2024-05-28 16:23:24,265 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:23:25,098 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:23:25,099 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:23:25,662 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.564 seconds.
+2024-05-28 16:23:25,662 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:23:25,668 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:23:25,671 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:23:28,770 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\script\\sentence_similarity.py', reloading
+2024-05-28 16:23:29,105 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\gensim\\__init__.py', reloading
+2024-05-28 16:23:29,126 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\gensim\\models\\__init__.py', reloading
+2024-05-28 16:23:29,211 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+2024-05-28 16:23:29,222 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\numpy\\compat\\__init__.py', reloading
+2024-05-28 16:23:29,792 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:23:30,618 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:23:30,619 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:23:31,201 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.583 seconds.
+2024-05-28 16:23:31,201 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:23:31,208 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:23:31,212 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:23:31,772 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\script\\textrank.py', reloading
+2024-05-28 16:23:32,470 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:23:33,334 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:23:33,336 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:23:33,937 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.603 seconds.
+2024-05-28 16:23:33,938 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:23:33,944 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:23:33,947 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:29:54,492 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\script\\abstract_textrank.py', reloading
+2024-05-28 16:29:55,455 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:29:56,320 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:29:56,321 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:29:56,877 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.556 seconds.
+2024-05-28 16:29:56,877 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:29:56,883 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:29:56,887 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:30:58,044 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:30:58,044 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:30:58,045 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:30:58,045 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:30:58,273 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:30:58,509 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:30:58,524 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:30:58,524 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:30:58,524 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:30:58] "GET / HTTP/1.1" 200 -
+2024-05-28 16:30:58,594 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:30:59,369 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:30:59,370 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:30:59,936 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.567 seconds.
+2024-05-28 16:30:59,937 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:30:59,943 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:30:59,946 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:31:33,149 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:31:33,150 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:31:33,366 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:31:34,133 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:31:34,134 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:31:34,692 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.560 seconds.
+2024-05-28 16:31:34,692 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:31:34,699 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:31:34,702 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:31:34,721 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:31:34,957 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:31:34,972 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:31:34,972 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:31:34,973 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:31:34] "GET / HTTP/1.1" 200 -
+2024-05-28 16:36:48,077 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:36:48,077 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:36:48,077 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\script\\abstract_tfidf.py', reloading
+2024-05-28 16:36:48,305 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:36:48,542 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:36:48,558 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:36:48,558 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:36:48,559 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:36:48] "GET / HTTP/1.1" 200 -
+2024-05-28 16:36:48,686 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:36:49,473 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:36:49,475 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:36:50,048 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.574 seconds.
+2024-05-28 16:36:50,048 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:36:50,054 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:36:50,058 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:37:55,247 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:37:55,247 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:37:55,248 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:37:55,248 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:37:55,471 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:37:55,723 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:37:55,738 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:37:55,738 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:37:55,738 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:37:55] "GET / HTTP/1.1" 200 -
+2024-05-28 16:37:55,819 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:37:56,585 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:37:56,586 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:37:57,163 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.577 seconds.
+2024-05-28 16:37:57,163 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:37:57,171 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:37:57,174 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:47:54,433 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:47:54,434 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:47:54,434 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:47:54,434 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:47:54,610 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:47:55,365 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:47:55,366 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:47:55,926 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.562 seconds.
+2024-05-28 16:47:55,926 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:47:55,933 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:47:55,935 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:47:55,954 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:56] - INFO: server start
+2024-05-28 16:47:56,197 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:38] - INFO: keyword done
+2024-05-28 16:47:56,214 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:48] - INFO: abstract done
+2024-05-28 16:47:56,215 - E:\ÖØÆû´úÂë\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\zz×îÖÕ´úÂë_all_users\z_flask_server_all_user.py[line:62] - INFO: server end
+2024-05-28 16:47:56,215 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 127.0.0.1 - - [28/May/2024 16:47:56] "POST / HTTP/1.1" 200 -
+2024-05-28 16:48:30,556 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:30,557 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:30,557 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:30,557 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:31,385 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:48:32,238 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:48:32,238 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:48:32,814 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.576 seconds.
+2024-05-28 16:48:32,814 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:48:32,822 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:48:32,824 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-28 16:48:38,068 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:38,068 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:38,069 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:38,069 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\zz×îÖÕ´úÂë_all_users\\z_test_flask_all_user.py', reloading
+2024-05-28 16:48:38,990 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-28 16:48:39,811 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-28 16:48:39,812 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-28 16:48:40,424 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.613 seconds.
+2024-05-28 16:48:40,425 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-28 16:48:40,432 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-28 16:48:40,435 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-29 10:40:35,061 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ĞÂ´úÂë\\new\\FastTextRank\\util.py', reloading
+2024-05-29 10:40:35,064 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\ÖÊÁ¿ÔÆÎÄ±¾ÕªÒª\\ÀÏ´úÂë\\new\\FastTextRank\\util.py', reloading
+2024-05-29 10:40:35,765 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-29 10:40:36,534 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-29 10:40:36,535 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-29 10:40:37,109 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.575 seconds.
+2024-05-29 10:40:37,109 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-29 10:40:37,116 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-29 10:40:37,119 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
+2024-05-29 15:21:24,526 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\test_ocr_rapidocr_onnxruntime.py', reloading
+2024-05-29 15:21:25,259 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-29 15:21:26,156 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:113] - DEBUG: Building prefix dict from the default dictionary ...
+2024-05-29 15:21:26,157 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:132] - DEBUG: Loading model from cache C:\Users\chihao\AppData\Local\Temp\jieba.cache
+2024-05-29 15:21:26,776 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:164] - DEBUG: Loading model cost 0.620 seconds.
+2024-05-29 15:21:26,776 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\jieba\__init__.py[line:166] - DEBUG: Prefix dict has been built successfully.
+2024-05-29 15:21:26,782 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-29 15:21:26,785 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 124-912-404
